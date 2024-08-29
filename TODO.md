@@ -14,7 +14,7 @@
 - [ ] Add the TEX files to the `docs` folder so that they can be edited on the fly
     - [ ] Make sure to add auxiliary files to the .gitignore
 
-- [ ] Make doc strings adhere to the Google-style python docstrings. Note:
+- [X] Make doc strings adhere to the Google-style python docstrings. Note:
     the docstings in `utils` are close but not quite there. Example:
 
 ```
@@ -32,4 +32,4 @@ def multiply_numbers(a, b):
     return a * b
 ```
 
-- [ ] Remove extra comments and extraneous lines across the package
+- [X] Remove extra comments and extraneous lines across the package
